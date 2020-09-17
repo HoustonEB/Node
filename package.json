@@ -4,8 +4,12 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.16.4",
+    "minimist": "^1.2.5",
+    "nodemailer": "^6.4.11",
+    "progress": "^2.0.3",
     "superagent": "^5.0.4",
     "utility": "^1.16.1"
   },
