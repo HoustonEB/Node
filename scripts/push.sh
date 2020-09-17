@@ -8,3 +8,4 @@ commitInfo=$1
 echo "commit info: ${commitInfo}"
 git add .
 git commit -m "${commitInfo}"
+git push
